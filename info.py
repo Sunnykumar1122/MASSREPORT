@@ -3,14 +3,14 @@ import time
 
 class Config(object):
     # Pyrogram Client
-    API_ID    = int(os.environ.get("API_ID", "24509589"))  # ⚠️ Required
-    API_HASH  = os.environ.get("API_HASH", "717cf21d94c4934bcbe1eaa1ad86ae75") # ⚠️ Required
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6151534135:AAHoxNXi9STwnkrO8EnJTqqEOks5qO3Z4fA") # ⚠️ Required
+    API_ID    = int(os.environ.get("API_ID", "21252518"))  # ⚠️ Required
+    API_HASH  = os.environ.get("API_HASH", "19b7cb0ba0c36d62477516fa5cfff1c3") # ⚠️ Required
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "7359632990:AAFEIi3ZhER1-IxL_0RWOkp-T48LK-T76bo") # ⚠️ Required
     
     # Other Configs
     BOT_START_TIME = time.time()
-    OWNER    = int(os.environ.get("OWNER", "6664582540"))  # ⚠️ Required
-    SUDO = list(map(int, os.environ.get("SUDO", "6664582540").split()))  # ⚠️ Required
+    OWNER    = int(os.environ.get("OWNER", "6585782640"))  # ⚠️ Required
+    SUDO = list(map(int, os.environ.get("SUDO", "6770167984").split()))  # ⚠️ Required
     # Web Response Config
     WEBHOOK = bool(os.environ.get("WEBHOOK", True))
     PORT = int(os.environ.get("PORT", "8080"))
@@ -26,7 +26,7 @@ class Txt(object):
     SEND_TARGET_CHANNEL = """
 ( SEND THE TARGET CHANNEL LINK or USERNAME)
 
-☛ For e.g :- <code> @ </code> or <code> https:/t.me/iam_daxx </code>
+☛ For e.g :- <code> @ </code> or <code> https:/t.me/ll_ROLEX_lll </code>
 """
 
     SEND_SESSION_MSG = """
@@ -96,7 +96,7 @@ Hɪ {},
 
 Tʜɪs Bᴏᴛ ɪs ғᴏʀ ᴛᴏ ʀᴇᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ ɪɴ ᴍᴀss ʟᴇᴠᴇʟ ᴛʜʀᴏᴜɢʜ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴄᴄᴏᴜɴᴛ sᴇssɪᴏɴ sᴛʀɪɴɢ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ ʙʏ @
 
-Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ :- @iam_daxx
+Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ :- @ll_ROLEX_lll
 """
 
     HELP_MSG = """
@@ -124,7 +124,7 @@ Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘ�
 
     ABOUT_MSG = """
 - 𝖬𝗒 𝖭𝖺𝗆𝖾 : <a href=https://t.me/{}>{}</a>
-- 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href=@iam_daxx</a>
+- 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href=@ll_ROLEX_lll/a>
 - 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : Pyrogram
 - 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥
 - 𝖣𝖺𝗍𝖺𝖡𝖺𝗌𝖾 : 𝖬𝗈𝗇𝗀𝗈𝖣𝖡
