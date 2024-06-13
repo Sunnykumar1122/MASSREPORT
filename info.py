@@ -26,10 +26,10 @@ class Txt(object):
     SEND_TARGET_CHANNEL = """
 ( SEND THE TARGET CHANNEL LINK or USERNAME)
 
-☛ For e.g :- <code> @ </code> or <code> https://t.me/?</code>
+☛ For e.g :- <code> @ </code> or <code> https://t.me/ll_ROLEX_lll</code>
 """
 
-    SEND_SESSION_MSG = "BQGRQBYAUp51FO7ZjsmdMkjakWCugR1pHPFrG96eFY7WuHdplD0LiSKwZd-Ms7BRzI737HRxGqcFirs08e83s1-kZmh0b4Edmi8HgkD97cTKGuzi0xw_SEe-8BJbz4ZedVa147YH5fwbyPs0OAy5Fekel4u_WyA8rpbTo7_9sEHw9oP9BhcImX08lBQ9pxaNUKLo7MoM-OC_bsoG0IU5miBL0AK4b0G_6oe62cpIl9Tu2Y5MSPjCtjrP2CqtiTcLO0_soX2pM7ra3MomDfnRinz9akK2Z0M5NhPs9Q6g-JbHR6IIg8LfUNsi41wLHi1Dsmt_r6elSIINXyNQ8lIxkWbL4dXlVAAAAAGIixFwAA"
+    SEND_SESSION_MSG = """
 ❪ SEND SESSOIN STRING ❫
 
 ☛ Generate Session String form @
